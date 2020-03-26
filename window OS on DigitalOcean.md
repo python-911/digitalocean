@@ -26,16 +26,32 @@ to resolve DNS use 8.8.8.8 as primary & 1.1.1.1 as secondary dns resolver.
 9. Change windows PASSWORD from control panel to make sure no one can access you windows VPS.
 
 10 - CHOOSE VERSION TO INSTALL 
+ 
 
+A - **WHATSUPTIME** 
+
+FAST SOURCEFORGE MULTIMIRRORS - On my project
+[https://sourceforge.net/projects/nulled/files/os/](https://sourceforge.net/projects/nulled/files/os/)
+
+Windows 10 Enterprise 
+
+
+
+Windows Server 12
+
+
+_-____________-_
+
+B_ WHATSUPTIME Dropbox hosted by someone else.
 
 For Windows 10:
-
 wget -O- https://www.dropbox.com/s/e2oglmh3tdu3boz/WIn10.gz?dl=1 | gunzip | dd of=/dev/vda
 
 For Windows 2012:
 
 wget -O- https://www.dropbox.com/s/eiductyclyf7kve/WinServerImageDO.gz?dl=1 | gunzip | dd of=/dev/vda
 
+_-_____________-_
 
 11 . LOGIN DETAILS FOR WINDOWS OS./
 
