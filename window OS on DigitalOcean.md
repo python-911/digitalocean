@@ -29,7 +29,6 @@ to resolve DNS use 8.8.8.8 as primary & 1.1.1.1 as secondary dns resolver.
  
 
 A - **WHATSUPTIME** 
-
 FAST SOURCEFORGE MULTIMIRRORS - On my project
 [https://sourceforge.net/projects/nulled/files/os/](https://sourceforge.net/projects/nulled/files/os/)
 
@@ -43,12 +42,11 @@ Windows Server 12
 _-____________-_
 
 B_ WHATSUPTIME Dropbox hosted by someone else.
-
 For Windows 10:
 wget -O- https://www.dropbox.com/s/e2oglmh3tdu3boz/WIn10.gz?dl=1 | gunzip | dd of=/dev/vda
+_-______________-_
 
 For Windows 2012:
-
 wget -O- https://www.dropbox.com/s/eiductyclyf7kve/WinServerImageDO.gz?dl=1 | gunzip | dd of=/dev/vda
 
 _-_____________-_
@@ -56,7 +54,7 @@ _-_____________-_
 Windows 10 Enterprise Login
 Username: WhatUpTime.com
 Password: P@ssword64
--_-__________-_-_
+_-_____________-_
 Windows Server12 logins
 Username: Administrator
 Password: P@ssword64
