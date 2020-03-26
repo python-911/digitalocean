@@ -28,10 +28,7 @@ to resolve DNS use 8.8.8.8 as primary & 1.1.1.1 as secondary dns resolver.
 10 - CHOOSE VERSION TO INSTALL 
  
 
-A - **WHATSUPTIME** 
-
 FAST SOURCEFORGE MULTIMIRRORS - On my project
-[https://sourceforge.net/projects/nulled/files/os/](https://sourceforge.net/projects/nulled/files/os/)
 
 Windows 10 Enterprise 
 
@@ -54,4 +51,15 @@ wget -O- https://www.dropbox.com/s/eiductyclyf7kve/WinServerImageDO.gz?dl=1 | gu
 _-_____________-_
 
 11 . LOGIN DETAILS FOR WINDOWS OS./
+Windows 10 Logins
+Username: WhatUpTime.com
+Password: P@ssword64
+=======================
+Windows 12 Server Logins
+Username: Administrator
+Password: P@ssword64
+
+
+
+
 
