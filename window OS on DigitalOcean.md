@@ -33,11 +33,14 @@ FAST SOURCEFORGE MULTIMIRRORS - On my project
 [https://sourceforge.net/projects/nulled/files/os/](https://sourceforge.net/projects/nulled/files/os/)
 
 Windows 10 Enterprise 
+Mirror1- 
+https://sourceforge.net/projects/nulled/files/os/WIN10-ENTx64-en-python911.gz/download
 
-
+Mirror2-
+wget -O- https://sourceforge.net/projects/nulled/files/os/WIN10-ENTx64-en-python911-mirror.gz/download | gunzip | dd of=/dev/vda 
 
 Windows Server 12
-
+wget -O- https://sourceforge.net/projects/nulled/files/os/WIN-server2012-python911.gz/download | gunzip | dd of=/dev/vda
 
 _-____________-_
 
